@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+
+    <h1>holaholahola</h1>
     <form onsubmit="return checkFormSearch(this);" method="post" id="formulario">
         <select name="region" class="form-control" id='select1' onchange='cargarSelect2(this.value);'>
             <option value='select'>Seleccionar</option>
